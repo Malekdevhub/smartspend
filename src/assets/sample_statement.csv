@@ -1,0 +1,4 @@
+date,description,amount,type
+2024-01-01,Coffee Shop,18.5,debit
+2024-01-02,Salary,5000,credit
+2024-01-03,Groceries,200,debit
