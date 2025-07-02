@@ -1,9 +1,6 @@
 streamlit
 pandas
 matplotlib
-seaborn
-scikit-learn
-joblib
-fpdf
 pdfplumber
-python-dotenv
+numpy
+xlsxwriterselenium==4.34.0
