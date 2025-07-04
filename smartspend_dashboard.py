@@ -74,7 +74,7 @@ def get_language_labels(lang="en"):
             "category_chart": "📊 Expenses by Category",
             "top_expenses": "📂 Top 10 Expenses by Description",
             "monthly_trend": "📉 Monthly Spending Trend",
-            "data_preview": "Here’s a preview of your cleaned and categorized data:",
+            "data_preview": "Here's a preview of your cleaned and categorized data:",
             "edit_rules": "Edit Category Rules",
             "category_name": "Category name",
             "keywords": "Keywords (comma separated)",

@@ -1,6 +1,7 @@
-streamlit
+streamlit>=1.10.0
 pandas
 matplotlib
 pdfplumber
 numpy
-xlsxwriterselenium==4.34.0
+openpyxl
+xlsxwriter

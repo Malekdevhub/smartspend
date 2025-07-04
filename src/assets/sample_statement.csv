@@ -1,19 +1,36 @@
 date,description,amount,type
-2025-06-01,Salary,12000,credit
-2025-06-02,STARBUCKS, -18.5, debit
-2025-06-02,Supermarket Riyadh, -155.75, debit
-2025-06-03,Uber, -32, debit
-2025-06-05,Mobily Bill, -250, debit
-2025-06-07,ATM Withdrawal, -500, debit
-2025-06-08,Transfer from Ahmed, 400, credit
-2025-06-09,AlBaik, -45, debit
-2025-06-10,Netflix, -49, debit
-2025-06-12,STC Bill, -210, debit
-2025-06-13,Deposit, 2000, credit
-2025-06-15,Rent, -2000, debit
-2025-06-20,Coffee Shop, -23.5, debit
-2025-06-22,Transfer to Ali, -800, debit
-2025-06-25,Salary,12000,credit
-2025-06-26,Supermarket Riyadh, -178.20, debit
-2025-06-27,Uber, -28, debit
-2025-06-28,Transfer from Omar, 650, credit
+2023-01-05,Salary Deposit,10000,credit
+2023-01-10,ATM Withdrawal,-500,debit
+2023-01-15,Supermarket Purchase,-250,debit
+2023-01-20,Cafe Visit,-75,debit
+2023-01-25,Restaurant Dinner,-120,debit
+2023-02-05,Salary Deposit,10000,credit
+2023-02-08,Utility Bill - STC,-200,debit
+2023-02-10,ATM Withdrawal,-600,debit
+2023-02-15,Grocery Shopping,-300,debit
+2023-02-18,Taxi Ride,-45,debit
+2023-02-25,Transfer to Family,-1000,debit
+2023-03-05,Salary Deposit,10000,credit
+2023-03-08,Utility Bill - STC,-210,debit
+2023-03-10,ATM Withdrawal,-400,debit
+2023-03-15,Supermarket Purchase,-275,debit
+2023-03-20,Cafe Visit,-85,debit
+2023-03-25,Restaurant Dinner,-150,debit
+2023-04-05,Salary Deposit,10000,credit
+2023-04-08,Utility Bill - STC,-200,debit
+2023-04-12,Grocery Shopping,-320,debit
+2023-04-18,Taxi Ride,-50,debit
+2023-04-22,Coffee Shop,-30,debit
+2023-04-25,Transfer to Family,-1000,debit
+2023-05-05,Salary Deposit,12000,credit
+2023-05-08,Utility Bill - STC,-205,debit
+2023-05-10,ATM Withdrawal,-700,debit
+2023-05-15,Supermarket Purchase,-290,debit
+2023-05-20,Cafe Visit,-90,debit
+2023-05-25,Restaurant Dinner,-180,debit
+2023-06-05,Salary Deposit,12000,credit
+2023-06-08,Utility Bill - STC,-210,debit
+2023-06-10,ATM Withdrawal,-500,debit
+2023-06-15,Grocery Shopping,-350,debit
+2023-06-18,Taxi Ride,-55,debit
+2023-06-25,Transfer to Family,-1000,debit
